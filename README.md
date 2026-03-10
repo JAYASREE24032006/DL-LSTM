@@ -46,10 +46,13 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ### Loss Vs Epoch Plot
 
-Include your plot here
+<img width="754" height="623" alt="image" src="https://github.com/user-attachments/assets/488505bc-72d3-4c0a-af55-bc2f3c337ea3" />
+
 
 #### Sample Text Prediction
-Include your sample text prediction here
+
+<img width="342" height="500" alt="image" src="https://github.com/user-attachments/assets/7a942459-355a-4731-a473-a8741f056e08" />
+
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text has been developed successfully.
